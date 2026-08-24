@@ -9,7 +9,6 @@
 </p>
 
 [![Get it on Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.koznotech.gorillaworkout)
-My app is now available on [Google Play](https://play.google.com/store/apps/details?id=com.koznotech.gorillaworkout&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1).
 
 > **Note:** The core source code for this application is proprietary as it is a live, commercial product on the Google Play Store. This repository serves as a technical showcase.
 
